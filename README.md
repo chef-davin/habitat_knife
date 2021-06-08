@@ -2,6 +2,8 @@
 
 The knife CLI for Chef Infra.
 
+The habitat package is available on public builder here: <https://bldr.habitat.sh/#/pkgs/chef-davin/knife/latest>
+
 ## Maintainers
 
 Davin Taddeo (davin@chef.io) maintains this habitat repo, but is not a maintainer of the knife gem or source code
